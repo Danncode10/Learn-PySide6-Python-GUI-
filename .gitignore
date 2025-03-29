@@ -1,0 +1,16 @@
+# Ignore compiled files
+*.class
+*.exe
+*.o
+*.pyc
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore node_modules (for JavaScript projects)
+node_modules/
+
+# Ignore virtual environment (Python)
+venv/
