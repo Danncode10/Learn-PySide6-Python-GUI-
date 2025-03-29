@@ -1,16 +1,27 @@
-# Ignore compiled files
-*.class
-*.exe
-*.o
+# Ignore Python bytecode and compiled files
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Ignore logs and temp files
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore PySide6 build artifacts
+*.qrc
+*.ui~
+*.qmlc
+*.qrc~
+
+# Ignore log files and temp files
 *.log
 *.tmp
 *.swp
+*.swo
 
-# Ignore node_modules (for JavaScript projects)
-node_modules/
+# Ignore macOS system files
+.DS_Store
 
-# Ignore virtual environment (Python)
-venv/
+# Ignore Windows system files
+Thumbs.db
