@@ -138,12 +138,3 @@ After all lessons, we’ll build a full PySide6 app (your choice):
 You’ll use Qt Designer + PySide6 + your own logic to complete it! 🚀
 
 ---
-
-## 🔹 How Do You Want to Learn?
-We can go lesson by lesson, and you tell me when you’re ready for the next. Or, I can give you a few lessons at a time and let you practice.
-
-💡 **Which style do you prefer?**
-1. **One Lesson at a Time** (Step-by-step)
-2. **Multiple Lessons in Advance** (Faster pace)
-
-Let’s start! 🔥
